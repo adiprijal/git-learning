@@ -7,6 +7,7 @@ print('''Git works similar to Google docs.
 # all git commands are run inside command prompt or terminal 
 
 
+# Use git-sheet.pdf as cheatsheet
 # To start this tutorial, first create a folder where you want to use git
 
 '''
