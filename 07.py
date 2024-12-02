@@ -1,3 +1,5 @@
+# Commit 7
+
 '''
 
     git reset  <file|folder>            staging -> working

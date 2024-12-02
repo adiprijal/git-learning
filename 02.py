@@ -1,3 +1,5 @@
+# Commit 2
+
 '''
  
     version = commit 
@@ -18,4 +20,7 @@
     git commit  -m "message"                Creates a commit with a message attached 
     git commit  -m "message" --amend        Update previous commit instead of creating new one 
 
+    >message< is sth you write to identify your commit
+
+    Ex: git commit -m "commit 1"
 '''
