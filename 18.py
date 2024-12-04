@@ -22,4 +22,9 @@
 
      Here, origin/master shows which branch is the master branch in remote repo
 
+
+     Know that, git push only pushes commits, not changes, not staged changes... only commits.
+
+     So before pushing make sure you have commited your changes.
+
 '''
