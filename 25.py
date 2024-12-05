@@ -15,6 +15,8 @@
 
     We can also use upstream to shorten this command...
 
-        git pull origin master -set--upstream
+        git pull origin master --set-upstream
+
+        --set-upstream works for both push and pull if you do it for either one of them.
 
 '''
