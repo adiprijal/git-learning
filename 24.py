@@ -15,4 +15,6 @@
     Now, in Adip's pc, origin/master will be ahead of HEAD -> master.
     Becoz he still hasn't pull those changes to his local repo.
 
+    Now, we would learn to pull changes from GitHub.
+    
 '''
